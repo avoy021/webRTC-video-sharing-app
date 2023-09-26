@@ -1,0 +1,25 @@
+
+#videos{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 2em;
+    padding: 10px;
+}
+
+/* .video-player{
+    
+} */
+
+#user1{    
+    height: 300px;
+    width: 100%;
+}
+
+#user2{
+    height: 500px;
+    width: 100%;
+    display: none;
+}
+
+
+
